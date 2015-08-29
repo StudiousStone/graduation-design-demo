@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	font-family: arial;
+}
+
+header{
+	background-color: #ffab62;
+	color: white;
+	padding: 30px 30px 0 30px;
+}
+
+header h1{
+	margin: 0;
+	display: inline;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+nav ul li{
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
+
+nav ul li a{
+	color:white;
+}
+
+footer{
+	position:absolute;
+	bottom:0;
+}
+
+.videocontext{
+	display: inline-block;
+	padding: 50px 0 0 100px;
+	float: left;
+}
+
+.thumbnare ul li{
+	display: inline-block;;
+}
+.thumbnare ul li a img{
+	padding: 5px 15px;
+	height: 300px;
+	width: 400px;
+}
